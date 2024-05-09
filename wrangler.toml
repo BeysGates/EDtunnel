@@ -1,4 +1,4 @@
-name = "cf-worker-ws-dev" # todo
+esname = "cf-worker-ws-dev" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
@@ -13,4 +13,4 @@ compatibility_date = "2023-05-26"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
 PASSWORD = "senja"
-PROXYIP = "52.77.110.99"
+PROXYIP = "8.219.78.1"
